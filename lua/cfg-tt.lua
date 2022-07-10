@@ -1,0 +1,1 @@
+print("myplugin is work")
